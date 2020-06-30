@@ -1,6 +1,6 @@
 # Control-DC-Motor-using-Algorithm-PID-Fuzzy-Logic
 This project uses STM32F4 microcontroller to apply PID algorithm to control DC motor position and speed.
-PID algorithm applies fuzzy logic to increase control accuracy and control quality.
+PID algorithm applies fuzzy logic to increase control accuracy and quality.
 
 
 Via USB communication between microcontroller and PC to transmit and receive data.
